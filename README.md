@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvis902" alt="elvis902" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin for Android Development**
+- 🌱 I’m currently improving my knowledge on **Kotlin for Android Development**
 
 - 📫 How to reach me **elvisrahman4@gmail.com**
 
