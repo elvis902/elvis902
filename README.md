@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvis Rahman.</h1>
-<h3 align="center">Android Developer, 3rd Year Undergrad @NIT_Silchar</h3>
+<h3 align="center">Android Developer, Final Year Undergrad @NIT_Silchar</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvis902" alt="elvis902" /></a> </p>
 
