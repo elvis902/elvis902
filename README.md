@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elvis-rahman-0304ba17a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/elvis-rahman-0304ba17a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elvis-rahman-0304ba17a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/elvis-rahman-0304ba17a/" height="30" width="40" /></a>
 <a href="https://instagram.com/elvis.rahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elvis.rahman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/elvisr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/elvisr/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/elvisr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/elvisr/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/elvisrahman4/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="elvisrahman4/profile" height="30" width="40" /></a>
 </p>
 
